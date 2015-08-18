@@ -56,7 +56,7 @@ GKfloring and CrystalCleaning are simple one page websites which uses Twitter Bo
 
 #### Dabrowka Hostel website
 
-Dabrowka is a one page website which uses CSS and Jquery.
+Dabrowka is a one page website which uses CSS and JQuery.
 
 [Dabrowka](http://dabrowka2.pl/)
 
