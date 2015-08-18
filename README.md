@@ -30,16 +30,19 @@
 #### PostMySecrets
 
 PostMySecrets was a fun project which uses Python and Django in a backend and Twitter Bootstrap as a front-end framework.
+
 [PostMySecrets](http://postmysecrets.com)
 
 #### GKFlooring
 
 GKfloring is a simple one page website which uses Twitter Bootstrap.
+
 [GKFlooringLtd](http://gkflooringltd.co.uk)
 
 #### CrystalCleaning
 
 CrystalCleaning is a simple website which uses Twitter Bootstrap.
+
 [CrystalCleaning](http://crystal-services.co.uk)
 
 ### Dabrowka Hostel website
