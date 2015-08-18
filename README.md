@@ -54,7 +54,7 @@ GKfloring and CrystalCleaning are simple one page websites which uses Twitter Bo
 [GKFlooringLtd](http://gkflooringltd.co.uk) |
 [CrystalCleaning](http://crystal-services.co.uk)
 
-### Dabrowka Hostel website
+#### Dabrowka Hostel website
 
 Dabrowka is a one page website which uses CSS and Jquery.
 
@@ -71,20 +71,20 @@ Project was created on a second week of the course. A music player using the Sou
 
 ## Employment
 
-### Freelance at Founders and Coders - (May 2015 - Now)
+#### Freelance at Founders and Coders - (May 2015 - Now)
 
 - 8-week highly selective coding bootcamp
 - Full-stack web development in Javascript and Node.js
 - Agile/Scrum techniques, TDD/BDD best practices, pair programming
 - UX Design
 
-### Bar manager at Cottons Restaurant (Jan 2012 - 2014)
+#### Bar manager at Cottons Restaurant (Jan 2012 - 2014)
 
 - Recruiting, training and motivating staff
 - Doing regular stock-takes and ordering as necessary
 - Handling deliveries
 
-### Sales assistant at Phones4U (Feb 2010 - Mar 2011)
+#### Sales assistant at Phones4U (Feb 2010 - Mar 2011)
 
 - Promoting and selling products or services to clients
 - Meeting and exceeding sales quotas
