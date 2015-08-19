@@ -44,19 +44,21 @@ PostMySecrets uses following technologies:
 * Django
 * Twitter Bootstrap
 * Jquery
+* PostgreSQL
+* Linode server
 
 [PostMySecrets.com](http://postmysecrets.com)
 
 #### GKFlooring, CrystalCleaning
 
-GKfloring and CrystalCleaning are simple one page websites which uses Twitter Bootstrap as front-end framework.
+GKfloring and CrystalCleaning are small business websites which use Twitter Bootstrap as front-end framework.
 
 [GKFlooringLtd](http://gkflooringltd.co.uk) |
 [CrystalCleaning](http://crystal-services.co.uk)
 
 #### Dabrowka Hostel website
 
-Dabrowka is a one page website which uses CSS and JQuery.
+Dabrowka is a one page website which uses vanilla CSS and JQuery for interactive effects.
 
 [Dabrowka](http://dabrowka2.pl/)
 
@@ -75,6 +77,7 @@ Project was created on a second week of the course. A music player using the Sou
 
 - 8-week highly selective coding bootcamp
 - Full-stack web development in Javascript and Node.js
+- Followed by 8 weeks of working on commercial projects
 - Agile/Scrum techniques, TDD/BDD best practices, pair programming
 - UX Design
 
