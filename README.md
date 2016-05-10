@@ -90,7 +90,15 @@ This project was created on the second week of the course. A music player using 
 
 #### Freelance at [DWYL](http://www.dwyl.io/) - (September 2015 - Now)
 
-- Agile/Scrum developement, TDD/BDD best practices, pair programming
+- Full stack Javascript developer
+- Stack: 
+ - ELasticsearch
+ - Redis
+ - Hapi
+ - Node
+ - Scraping
+ - FLexbox
+
 
 #### Freelance at Founders & Coders - (May 2015 - Now)
 
