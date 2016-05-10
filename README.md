@@ -13,6 +13,7 @@ With an expert eye for detail, I am able to continuously build on my skills and 
 - **Deploying to Heroku**
 - **Continuous Integration with Travis CI**
 - **JavaScript**
+- **Scraping**
 - **Python**
 - **Django**
 - **CSS3 and Sass**
@@ -21,21 +22,36 @@ With an expert eye for detail, I am able to continuously build on my skills and 
 - **Node.js**
 - **Hapi.js**
 - **Twitter Bootstrap**
+- **Flexbox**
+- **Elasticsearch**
 - **Redis**
 - **MongoDB**
 - **Markdown**
 - **APIs including Twitter, SoundCloud**
-- **Testing with QUnit, Tape**
+- **Testing with QUnit, Tape, Lab**
 - **Bedrock**
 - **Trellis**
 - **Sage**
 - **Wordpress**
+- **React**
 - Express
-- React
+
 
 ## Experience
 
 ### Freelance Projects
+
+### CMS platform for recruitment company (start project: September 2015 - now)
+
+* Javascript
+* Scraping
+* Google Extension
+* Hapi.js
+* Node.js
+* Elasticsearch
+* Redis
+* Handlebars
+* Flexbox
 
 #### PostMySecrets
 
@@ -49,12 +65,11 @@ PostMySecrets uses the following technologies:
 
 [PostMySecrets.com](http://postmysecrets.com)
 
-#### GKFlooring, CrystalCleaning
+#### GKFlooring
 
-GKFlooring and CrystalCleaning are small business websites which use Twitter Bootstrap as the front-end framework.
+GKFlooring is small business website which use Twitter Bootstrap as the front-end framework.
 
 [GKFlooringLtd](http://gkflooringltd.co.uk) |
-[CrystalCleaning](http://crystal-services.co.uk)
 
 #### Dabrowka Hostel
 
@@ -72,6 +87,10 @@ This project was created on the second week of the course. A music player using 
 [CloudListly](http://codersindev.github.io/CloudListly)
 
 ## Employment
+
+#### Freelance at [DWYL](http://www.dwyl.io/) - (September 2015 - Now)
+
+- Agile/Scrum developement, TDD/BDD best practices, pair programming
 
 #### Freelance at Founders & Coders - (May 2015 - Now)
 
@@ -105,4 +124,4 @@ This project was created on the second week of the course. A music player using 
 
 ## Contact
 
-czaplaanita@gmail.com | [GitHub](https://github.com/heron2014) | [LinkedIn](https://www.linkedin.com/in/anitaczapla) | [Codewars](https://www.codewars.com/users/anita_cz_h)
+czaplaanita@foundersandcoders.com | [GitHub](https://github.com/heron2014) | [LinkedIn](https://www.linkedin.com/in/anitaczapla) | [Codewars](https://www.codewars.com/users/anita_cz_h)
