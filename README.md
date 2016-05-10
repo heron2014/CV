@@ -108,6 +108,10 @@ This project was created on the second week of the course. A music player using 
 - Agile/Scrum techniques, TDD/BDD best practices, pair programming
 - UX Design
 
+#### Freelance Web Developer - (September 2014 - May 2015)
+
+- CSS3, HTML5, Javascript, JQuery
+
 #### Bar Manager at Cottons Restaurant (Jan 2012 - 2014)
 
 - Recruiting, training and motivating staff
