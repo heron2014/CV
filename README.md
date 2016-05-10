@@ -136,4 +136,4 @@ This project was created on the second week of the course. A music player using 
 
 ## Contact
 
-czaplaanita@foundersandcoders.com | [GitHub](https://github.com/heron2014) | [LinkedIn](https://www.linkedin.com/in/anitaczapla) | [Codewars](https://www.codewars.com/users/anita_cz_h)
+anita@foundersandcoders.com | [GitHub](https://github.com/heron2014) | [LinkedIn](https://www.linkedin.com/in/anitaczapla) | [Codewars](https://www.codewars.com/users/anita_cz_h)
