@@ -61,7 +61,7 @@ Chat application (side project). Main reason to build this project was to learn 
 
 - **September 2015 - August 2016**
 
-Internal CMS platform that manage recruitment process build for the top recruitment company
+Internal CMS platform that manages recruitment process. Built for the top recruitment company.
 
 - **The following technologies were used:**
 
@@ -90,9 +90,10 @@ The main goal for the chrome extension is to collect and enhance the data for sp
   * Connecting to existing APIs
   * Publihing extension
 
-### [Arteur](https://github.com/Arteur/arteur) - Live link (http://arteur.herokuapp.com/)
+### [Arteur](https://github.com/Arteur/arteur)
 
 - **August 2015 - August 2015**
+- http://arteur.herokuapp.com/
 
 Social platform for sharing reviews from art exhibition and uploading pictures at a real time.
 
@@ -107,7 +108,9 @@ Social platform for sharing reviews from art exhibition and uploading pictures a
   * Databases:
     * [Redis](http://redis.io/)
 
-### [TLGC](https://github.com/CodersInDev/TLGC)
+### [The Leaving Gift Company](https://github.com/CodersInDev/TLGC)
+
+- **August 2015 - August 2015**
 
 Platform for buying leaving gifts.
 
@@ -190,6 +193,8 @@ Dabrowka is a one-page website, which uses vanilla CSS and jQuery for interactiv
 ![node-girls](img/node-girls.png)
 
 [Node-Girls](http://nodegirls.io/)
+
+Node Girls runs free bootcamps in Node.js for women.
 
 - **Organiser and Mentor | November 2015 - present**
 
