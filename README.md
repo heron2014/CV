@@ -200,4 +200,4 @@ Node Girls runs free bootcamps in Node.js for women.
 
 ## Contact
 
-anita@foundersandcoders.com | [GitHub](https://github.com/heron2014) | [LinkedIn](https://www.linkedin.com/in/anitaczapla) | [Codewars](https://www.codewars.com/users/anita_cz_h)
+anita@foundersandcoders.com | [GitHub](https://github.com/heron2014) | [LinkedIn](https://www.linkedin.com/in/anitaczapla) 
