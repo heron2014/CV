@@ -1,22 +1,23 @@
 # Anita Czapla
 
-## Fullstack Javascript developer at [DWYL](http://www.dwyl.io/)
-> fullstack developer with a "don't give up attitude"
+## Fullstack Javascript developer
+> I am a full-stack developer, dedicated to coding with a "don't give up" attitude. With an expert eye for detail, I am able to continously build on my skills and learn new frameworks and languages, which has become a hobby as well as a career choice.
+
 
 ## Skills
 
 | Languages              | Libraries & APIs | Databases     | Testing  | Tools      | Front-end frameworks |
 |:----------------------:|:----------------:|:-------------:|:--------:|:----------:|:--------------------:|
 | JavaScript (ES5 & ES6) | Hapi.js          | ElasticSearch | Tape     | Git        | Bootstrap            |
-| Node.js                | Express.js       |  Redis        | Karma    | Codecov    | Foundation
+| Node.js                | Express.js       |  Redis        | Karma    | Codecov    | Foundation           |
 | HTML5                  | Greensock        |  MongoDB      | Mocha    | npm        | Materialize          |
 | HTML5                  | React            |               | Lab      | Heroku     | Flexbox              |
 | CSS3                   | Redux            |               | Expect   | AWS        |                      |
-| Sass                   | Socket.io        |               |          | Linux      |            
-| JQuery                 | Google apis      |               |          | Webpack    |
-| Python                 | Facebook apps    |               |          | Travis     |
-|                        | Chrome extension |               |          |            |            
-|                        | Django           |               |          |            |
+| Sass                   | Socket.io        |               |          | Linux      |                      |
+| JQuery                 | Google apis      |               |          | Webpack    |                      |
+| Python                 | Facebook apps    |               |          | Travis     |                      |
+|                        | Chrome extension |               |          |            |                      |
+|                        | Django           |               |          |            |                      |
 ---
 
 
@@ -200,4 +201,4 @@ Node Girls runs free bootcamps in Node.js for women.
 
 ## Contact
 
-anita@foundersandcoders.com | [GitHub](https://github.com/heron2014) | [LinkedIn](https://www.linkedin.com/in/anitaczapla) 
+anita@foundersandcoders.com | [GitHub](https://github.com/heron2014) | [LinkedIn](https://www.linkedin.com/in/anitaczapla)
