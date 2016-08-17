@@ -1,81 +1,138 @@
 # Anita Czapla
 
-I am a full stack developer, dedicated to coding with a "don't give up" attitude. Coding has been a passion of mine for a while and I am now a proud member of Founders & Coders.
-With an expert eye for detail, I am able to continuously build on my skills and learn new frameworks and languages, which has become a hobby as well as a career choice.
+## Fullstack Javascript developer at [DWYL](http://www.dwyl.io/)
+> fullstack developer with a "don't give up attitude"
 
 ## Skills
 
-- **Agile values, principles and practice**
-- **Pair programming**
-- **Test & Behaviour Driven Development**
-- **Version control with git/GitHub**  
-- **User stories with Pivotal Tracker**
-- **Deploying to Heroku**
-- **Continuous Integration with Travis CI**
-- **JavaScript**
-- **Scraping**
-- **Python**
-- **Django**
-- **CSS3 and Sass**
-- **HTML5**
-- **jQuery**
-- **Node.js**
-- **Hapi.js**
-- **Twitter Bootstrap**
-- **Flexbox**
-- **Elasticsearch**
-- **Redis**
-- **MongoDB**
-- **Markdown**
-- **APIs including Twitter, SoundCloud**
-- **Testing with QUnit, Tape, Lab**
-- **Bedrock**
-- **Trellis**
-- **Sage**
-- **Wordpress**
-- **React**
-- Express
+| Languages              | Libraries & APIs | Databases     | Testing  | Tools      | Front-end frameworks |
+|:----------------------:|:----------------:|:-------------:|:--------:|:----------:|:--------------------:|
+| JavaScript (ES5 & ES6) | Hapi.js          | ElasticSearch | Tape     | Git        | Bootstrap            |
+| Node.js                | Express.js       |  Redis        | Karma    | Codecov    | Foundation
+| HTML5                  | Greensock        |  MongoDB      | Mocha    | npm        | Materialize          |
+| HTML5                  | React            |               | Lab      | Heroku     | Flexbox              |
+| CSS3                   | Redux            |               | Expect   | AWS        |                      |
+| Sass                   | Socket.io        |               |          | Linux      |            
+| JQuery                 | Google apis      |               |          | Webpack    |
+| Python                 | Facebook apps    |               |          | Travis     |
+|                        | Chrome extension |               |          |            |            
+|                        | Django           |               |          |            |
+---
+
 
 
 ## Experience
 
-### Freelance Projects
+### [Todo App](https://github.com/heron2014/react-todo)
 
-### CMS platform for recruitment company (start project: September 2015 - now)
+- **In progress**
 
-* Javascript
-* Scraping
-* Google Extension
-* Hapi.js
-* Node.js
-* Elasticsearch
-* Redis
-* Handlebars
-* Flexbox
+Todo App (side project). Main reason to build this project was to play with React $ Redux.
 
-#### PostMySecrets
+- **The following technologies were used:**
+  * React
+  * Redux
+  * JQuery
+  * Webpack
+  * Databases:
+    * Redis
+  * Testing:
+    * Mocha, Karma, expect
 
-PostMySecrets uses the following technologies:
-* Python
-* Django
-* Twitter Bootstrap
-* jQuery
-* PostgreSQL
-* Linode Server
+### [Real-time chat application - Bubbles](https://github.com/heron2014/Bubbles)
 
-[PostMySecrets.com](http://postmysecrets.com)
+- **July 2016 - July 2016**
 
-#### GKFlooring
+Chat application (side project). Main reason to build this project was to learn Socket.io.
 
-GKFlooring is small business website which use Twitter Bootstrap as the front-end framework.
+- **The following technologies were used:**
+  * Socket.io
+  * Hapi.js
+  * JQuery
+  * Databases:
+    * Redis
+    * MongoDB
+  * Testing:
+    * Tape
 
-[GKFlooringLtd](http://gkflooringltd.co.uk) |
+- Version 2 to be built in React and Redux (in progress).
 
-#### Dabrowka Hostel
+### [Internal CMS platform](https://github.com/FAC-GM/app)
 
-Dabrowka is a one-page website, which uses vanilla CSS and jQuery for interactive effects.
+- **September 2015 - August 2016**
 
-[Dabrowka](http://dabrowka2.pl/)
+Internal CMS platform that manage recruitment process build for the top recruitment company
+
+- **The following technologies were used:**
+
+  * HTML5, CSS3, Javascript
+  * [Nodejs](https://nodejs.org/en/)
+  * [Hapijs](http://hapijs.com/)
+    * Main packages: [env2](https://github.com/dwyl/env2), Handlebars, Inert, Vision
+    * Testing: Lab, Code
+  * Flexbox
+  * [Travis CI](http://travis-ci.org) runs on every pull request
+  * [codecov](https://codecov.io/) runs test coverage on every pull request
+  * Databases:
+    * [ElasticSearch](https://www.elastic.co/)
+    * [Redis](http://redis.io/)
+
+
+### [Chrome extension](https://github.com/FAC-GM/gm-magic)
+
+- **October 2015 - November 2015**
+
+The main goal for the chrome extension is to collect and enhance the data for specific linkedin profiles.
+
+- **The following technologies were used:**
+
+  * Scraping
+  * Connecting to existing APIs
+  * Publihing extension
+
+### [Arteur](https://github.com/Arteur/arteur) - Live link (http://arteur.herokuapp.com/)
+
+- **August 2015 - August 2015**
+
+Social platform for sharing reviews from art exhibition and uploading pictures at a real time.
+
+- **The following technologies were used:**
+  * HTML5, CSS3, Javascript
+  * [Nodejs](https://nodejs.org/en/)
+  * [Hapijs](http://hapijs.com/)
+  * Bootstrap
+  * Handlebars
+  * JQuery
+  * AWS S3 bucket
+  * Databases:
+    * [Redis](http://redis.io/)
+
+### [TLGC](https://github.com/CodersInDev/TLGC)
+
+Platform for buying leaving gifts.
+
+- **The following technologies were used:**
+  * HTML5, CSS3, Javascript
+  * [Nodejs](https://nodejs.org/en/)
+  * [Hapijs](http://hapijs.com/)
+  * Bootstrap
+  * Handlebars
+  * JQuery
+  * Databases:
+    * [Redis](http://redis.io/)
+
+
+### [PostMySecrets](http://postmysecrets.com/)
+
+PostMySecrets was a side project. Main reason for building this project was to learn Django framework.
+
+- **The following technologies were used:**
+  * Python
+  * Django
+  * Twitter Bootstrap
+  * jQuery
+  * PostgreSQL
+  * Linode Server
 
 ### Founders & Coders Projects
 
@@ -86,23 +143,29 @@ This project was created on the second week of the course. A music player using 
 [Github](https://github.com/CodersInDev/CloudListly) |
 [CloudListly](http://codersindev.github.io/CloudListly)
 
+#### [Dabrowka Hostel](http://dabrowka2.pl/)
+
+Dabrowka is a one-page website, which uses vanilla CSS and jQuery for interactive effects.
+
 ## Employment
 
 #### Freelance at [DWYL](http://www.dwyl.io/) - (September 2015 - Now)
 
 - Full stack Javascript developer
-- Stack: 
+- Stack:
  - ELasticsearch
  - Redis
  - Hapi
  - Node
  - Scraping
  - FLexbox
+ - React
+ - Redux
 
 
-#### Freelance at Founders & Coders - (May 2015 - Now)
+#### Mentor & Freelance at Founders & Coders - (May 2015 - Now)
 
-- 8-week highly selective coding bootcamp
+- 16-week highly selective coding bootcamp
 - Full-stack web development in JavaScript and Node.js
 - Followed by 8 weeks of working on commercial projects
 - Agile/Scrum techniques, TDD/BDD best practices, pair programming
@@ -112,27 +175,23 @@ This project was created on the second week of the course. A music player using 
 
 - CSS3, HTML5, Javascript, JQuery
 
-#### Bar Manager at Cottons Restaurant (Jan 2012 - 2014)
-
-- Recruiting, training and motivating staff
-- Doing regular stock-takes and ordering as necessary
-- Handling deliveries
-
-#### Sales Assistant at Phones4U (Feb 2010 - Mar 2011)
-
-- Promoting and selling products and services to clients
-- Meeting and exceeding sales quotas
-- Keeping up to date on new technologies
-
 ## Education
 
 
 |      Institution       |              Subject(s)              
 | --------------- |-------------------------|--------------------------------------|
 |  Founders & Coders, London | JavaScript Bootcamp |
-|  Richmond Adult Community College, London | Web Technologies OCNLR Level 2 Certificate 
+|  Richmond Adult Community College, London | Web Technologies OCNLR Level 2 Certificate
 |  City Lit, London | jQuery Course; JavaScript Course
 |  University of Science and Technology, Krakow, Poland | Masters degree in Marketing and Management |
+
+## Activities
+
+![node-girls](img/node-girls.png)
+
+[Node-Girls](http://nodegirls.io/)
+
+- **Organiser and Mentor | November 2015 - present**
 
 ## Contact
 
