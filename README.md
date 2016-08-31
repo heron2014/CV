@@ -28,7 +28,7 @@
 
 - **In progress**
 
-Todo App (side project). Main reason to build this project was to play with React $ Redux.
+Todo App (side project). Main reason to build this project was to play with React & Redux.
 
 - **The following technologies were used:**
   * React
@@ -62,7 +62,7 @@ Chat application (side project). Main reason to build this project was to learn 
 
 - **September 2015 - August 2016**
 
-Internal CMS platform that manages recruitment process. Built for the top recruitment company.
+Internal CRM platform that manages recruitment process. Built for the top recruitment company.
 
 - **The following technologies were used:**
 
