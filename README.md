@@ -58,7 +58,7 @@ Chat application (side project). Main reason to build this project was to learn 
 
 - Version 2 to be built in React and Redux (in progress).
 
-### [Internal CMS platform](https://github.com/FAC-GM/app)
+### [Internal CRM platform](https://github.com/FAC-GM/app)
 
 - **September 2015 - August 2016**
 
