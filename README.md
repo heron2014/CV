@@ -17,7 +17,7 @@
 | JQuery                 | Google apis      |               |          | Webpack    |                      |
 | Python                 | Facebook apps    |               |          | Travis     |                      |
 |                        | Chrome extension |               |          |            |                      |
-|                        | Django           |               |          |            |                      |
+                                                                                 
 ---
 
 
