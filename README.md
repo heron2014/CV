@@ -24,9 +24,40 @@
 
 ## Experience
 
-### [Todo App](https://github.com/heron2014/react-todo)
+### [Spark](https://github.com/DRDD2016/sparkn2)
 
 - **In progress**
+
+An app to organise parties, events, share pictures and memories with friends and family.
+
+- **The following technologies were used:**
+  * ReactNative
+  * Redux
+  * Node
+  * Express
+  * Flexbox
+  * Databases:
+    * Postgresql
+  * Testing:
+    * Tape, Jest
+  * AWS
+
+
+### [TicketsForGood](http://www.ticketsforgood.co.uk/)
+
+Platform promoting variety of events for charities. 
+
+The project was to build the subdomain [events](https://events.ticketsforgood.co.uk/)
+
+- **The following technologies were used**
+  * Ruby on Rails
+  * HTML
+  * CSS
+  * AWS S3 bucket
+  * Postgresql
+
+
+### [Todo App](https://github.com/heron2014/react-todo)
 
 Todo App (side project). Main reason to build this project was to play with React & Redux.
 
