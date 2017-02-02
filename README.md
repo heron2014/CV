@@ -9,13 +9,13 @@
 | Languages              | Libraries & APIs | Databases     | Testing  | Tools      | Front-end frameworks |
 |:----------------------:|:----------------:|:-------------:|:--------:|:----------:|:--------------------:|
 | JavaScript (ES5 & ES6) | Hapi.js          | ElasticSearch | Tape     | Git        | Bootstrap            |
-| Node.js                | Express.js       |  Redis        | Karma    | Codecov    | Foundation           |
-| HTML5                  | Greensock        |  MongoDB      | Mocha    | npm        | Materialize          |
-| HTML5                  | React            |               | Lab      | Heroku     | Flexbox              |
-| CSS3                   | Redux            |               | Expect   | AWS        |                      |
-| Sass                   | Socket.io        |               |          | Linux      |                      |
-| JQuery                 | Google apis      |               |          | Webpack    |                      |
-| Python                 | Facebook apps    |               |          | Travis     |                      |
+| HTML5                  | Express.js       |  Redis        | Karma    | Codecov    | Foundation           |
+| CSS3                   | React Native     |  MongoDB      | Mocha    | npm        | Materialize          |
+| Sass                   | React            |  PostgreSQL   | Lab      | Heroku     | Flexbox              |
+|                        | Redux            |               | Expect   | AWS        |                      |
+|                        | Socket.io        |               |          | Linux      |                      |
+|                        | Google apis      |               |          | Webpack    |                      |
+|                        | Facebook apps    |               |          | Travis     |                      |
 |                        | Chrome extension |               |          |            |                      |
                                                                                  
 ---
