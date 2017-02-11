@@ -226,7 +226,7 @@ Dabrowka is a one-page website, which uses vanilla CSS and jQuery for interactiv
 
 [Node-Girls](http://nodegirls.io/)
 
-Node Girls runs free bootcamps in Node.js for women.
+Node Girls runs free bootcamps in Node.js for women
 
 - **Organiser and Mentor | November 2015 - present**
 
