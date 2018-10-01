@@ -90,6 +90,7 @@ An API to serve web platfrom, IOS app and internal platform.
    * Testing:
      * Lab
    * AWS
+    * Elastic Beanstalk, DynamoDB, SQS, ElasticCache, S3, CloudFront
    * Docker
 
 An internal platform for content team and publishers.
@@ -112,6 +113,8 @@ Resource and learning tool for pianists and singers of all abilities, offering p
    * React Native
    * Recompose
    * Styled-Components
+   * Tooling
+    * Crashlytics, MixPanel
 
 ### [Spark](http://www.spark-app.net/)
 
@@ -278,6 +281,13 @@ Founder, main developer responsible for development processes, time management, 
 
 #### Software Engineer at [TIDO Music](https://www.tido-music.com/) - (March 2016 - September 2018)
 
+- Working closely with the product and design teams to deliver the best possible product, alongside the rest of the Engineering team headed by the CTO
+- Providing support in troubleshooting and addressing a production issue
+- Buiding a new feature, with tests, that supports growing user base
+- Contributing to extend API methods
+- Whiteboarding a fix to any ongoing problems
+- Heavily involved with creating new features, wireframing, discussion with Founder, CEO and Produc Owner
+- Building features in iOS ecosystem, using Swift
 
 #### Javascript Contractor - (September 2016 - March 2017)
 
