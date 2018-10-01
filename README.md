@@ -42,6 +42,7 @@ An Android and IOS app for locating sreet food near you. This is my ongoing pers
   * Testing:
     * Jest
   * AWS
+  * Docker
 
 An API for web and native app.
 
@@ -78,39 +79,39 @@ A web platform for learning piano.
 An API to serve web platfrom, IOS app and internal platform.
  
  - **Technologies:**
-  * Lodash FP
-  * Node
-  * Hapi
-  * Axios
-  * Databases:
-    * DynamoDB, Redis, Elasticsearch
+   * Lodash FP
+   * Node
+   * Hapi
+   * Axios
+   * Databases:
+     * DynamoDB, Redis, Elasticsearch
    * Third party APIs:
-    * Mandrill, Stripe
-  * Testing:
-    * Lab
-  * AWS
-  * Docker
+     * Mandrill, Stripe
+   * Testing:
+     * Lab
+   * AWS
+   * Docker
 
 An internal platform for content team and publishers.
 
  - **Technologies:**
-  * Lodash FP
-  * React
-  * Redux
-  * Redux Saga
-  * Recompose
-  * Reselect
-  * Docker
+   * Lodash FP
+   * React
+   * Redux
+   * Redux Saga
+   * Recompose
+   * Reselect
+   * Docker
 
 ### [Tido Music IOS APP](https://itunes.apple.com/gb/app/tido-sheet-music-enriched/id1050926313?mt=8)
 
 Resource and learning tool for pianists and singers of all abilities, offering premium multimedia content and powerful, interactive features.
 
  - **Technologies:**
-  * Swift
-  * React Native
-  * Recompose
-  * Styled-Components
+   * Swift
+   * React Native
+   * Recompose
+   * Styled-Components
 
 ### [Spark](http://www.spark-app.net/)
 
