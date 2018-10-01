@@ -279,7 +279,7 @@ Dabrowka is a one-page website, which uses vanilla CSS and jQuery for interactiv
 Founder, main developer responsible for development processes, time management, estimation, and the technical roadmap, and heavily involved in writing code. 
 
 
-#### Software Engineer at [TIDO Music](https://www.tido-music.com/) - (March 2016 - September 2018)
+#### Software Engineer at [TIDO Music](https://www.tido-music.com/) - (March 2017 - September 2018)
 
 - Working closely with the product and design teams to deliver the best possible product, alongside the rest of the Engineering team headed by the CTO
 - Providing support in troubleshooting and addressing a production issue
