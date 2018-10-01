@@ -12,7 +12,8 @@
 | HTML5                  | Express.js       |  Redis        | Karma    | Codecov    | Foundation           |
 | CSS3                   | React Native     |  MongoDB      | Mocha    | npm        | Materialize          |
 | Sass                   | React            |  PostgreSQL   | Lab      | Heroku     | Flexbox              |
-|                        | Redux            |               | Expect   | AWS        |                      |
+|                        | Redux            |  DynamoDB     | Expect   | AWS        |                      |
+|                        | Recompose        |               |          |            |                      |
 |                        | Socket.io        |               |          | Linux      |                      |
 |                        | Google apis      |               |          | Webpack    |                      |
 |                        | Facebook apps    |               |          | Travis     |                      |
@@ -24,18 +25,103 @@
 
 ## Experience
 
-### [Spark](https://github.com/DRDD2016/sparkn2)
+### [ForkFlick](https://www.forkflick.com/)
 
-- **In progress**
+An Android and IOS app for locating sreet food near you. This is my ongoing personal project. 
 
-An app to organise parties, events, share pictures and memories with friends and family.
+- **Technologies used in web and native platform:**
+  * Universal React app
+  * React Native
+  * Redux Saga
+  * Recompose
+  * Reselect
+  * Styled-Components
+  * Lodash FP
+  * ES6
+  * Webpack
+  * Testing:
+    * Jest
+  * AWS
 
-- **The following technologies were used:**
-  * ReactNative
-  * Redux
+An API for web and native app.
+
+- **Technologies:**
   * Node
   * Express
-  * Flexbox
+  * ES6
+  * Third party APIs:
+    * Google Maps, Mailchimp, Mandrill
+  * Databse:
+    * PostgeSQL
+  * Testing:
+    * Tape
+  * AWS
+
+### [Tido Music Web](https://www.tido-music.com/)
+
+A web platform for learning piano.
+
+- **Technologies:**
+  * Universal React app
+  * Redux
+  * Redux Saga
+  * Recompose
+  * Reselect
+  * Styled-Components
+  * Lodash FP
+  * ES6
+  * Webpack
+  * Testing:
+    * Codeceptjs
+  * AWS
+ 
+An API to serve web platfrom, IOS app and internal platform.
+ 
+ - **Technologies:**
+  * Lodash FP
+  * Node
+  * Hapi
+  * Axios
+  * Databases:
+    * DynamoDB, Redis, Elasticsearch
+   * Third party APIs:
+    * Mandrill, Stripe
+  * Testing:
+    * Lab
+  * AWS
+  * Docker
+
+An internal platform for content team and publishers.
+
+ - **Technologies:**
+  * Lodash FP
+  * React
+  * Redux
+  * Redux Saga
+  * Recompose
+  * Reselect
+  * Docker
+
+### [Tido Music IOS APP](https://itunes.apple.com/gb/app/tido-sheet-music-enriched/id1050926313?mt=8)
+
+Resource and learning tool for pianists and singers of all abilities, offering premium multimedia content and powerful, interactive features.
+
+ - **Technologies:**
+  * Swift
+  * React Native
+  * Recompose
+  * Styled-Components
+
+### [Spark](http://www.spark-app.net/)
+
+An IOS app to organise parties, events, share pictures and memories with friends and family.
+
+- **Technologies:**
+  * ReactNative
+  * Redux
+  * websockets
+  * Node
+  * Express
   * Databases:
     * Postgresql
   * Testing:
@@ -49,7 +135,7 @@ Platform promoting variety of events for charities.
 
 The project was to build the subdomain [events](https://events.ticketsforgood.co.uk/)
 
-- **The following technologies were used**
+- **Technologies:**
   * Ruby on Rails
   * HTML
   * CSS
@@ -61,7 +147,7 @@ The project was to build the subdomain [events](https://events.ticketsforgood.co
 
 Todo App (side project). Main reason to build this project was to play with React & Redux.
 
-- **The following technologies were used:**
+- **Technologies:**
   * React
   * Redux
   * JQuery
@@ -77,7 +163,7 @@ Todo App (side project). Main reason to build this project was to play with Reac
 
 Chat application (side project). Main reason to build this project was to learn Socket.io.
 
-- **The following technologies were used:**
+- **Technologies:**
   * Socket.io
   * Hapi.js
   * JQuery
@@ -95,7 +181,7 @@ Chat application (side project). Main reason to build this project was to learn 
 
 Internal CRM platform that manages recruitment process. Built for the top recruitment company.
 
-- **The following technologies were used:**
+- **Technologies:**
 
   * HTML5, CSS3, Javascript
   * [Nodejs](https://nodejs.org/en/)
@@ -116,7 +202,7 @@ Internal CRM platform that manages recruitment process. Built for the top recrui
 
 The main goal for the chrome extension is to collect and enhance the data for specific linkedin profiles.
 
-- **The following technologies were used:**
+- **Technologies:**
 
   * Scraping
   * Connecting to existing APIs
@@ -129,7 +215,7 @@ The main goal for the chrome extension is to collect and enhance the data for sp
 
 Social platform for sharing reviews from art exhibition and uploading pictures at a real time.
 
-- **The following technologies were used:**
+- **Technologies:**
   * HTML5, CSS3, Javascript
   * [Nodejs](https://nodejs.org/en/)
   * [Hapijs](http://hapijs.com/)
@@ -146,7 +232,7 @@ Social platform for sharing reviews from art exhibition and uploading pictures a
 
 Platform for buying leaving gifts.
 
-- **The following technologies were used:**
+- **Technologies:**
   * HTML5, CSS3, Javascript
   * [Nodejs](https://nodejs.org/en/)
   * [Hapijs](http://hapijs.com/)
@@ -161,7 +247,7 @@ Platform for buying leaving gifts.
 
 PostMySecrets was a side project. Main reason for building this project was to learn Django framework.
 
-- **The following technologies were used:**
+- **Technologies::**
   * Python
   * Django
   * Twitter Bootstrap
@@ -184,7 +270,31 @@ Dabrowka is a one-page website, which uses vanilla CSS and jQuery for interactiv
 
 ## Employment
 
-#### Freelance at [DWYL](http://www.dwyl.io/) - (September 2015 - Now)
+#### Software Engineer at [ForkFlick](https://www.forkflick.com/) - (September 2018 - now)
+
+Founder, main developer responsible for development processes, time management, estimation, and the technical roadmap, and heavily involved in writing code. 
+
+
+#### Software Engineer at [TIDO Music](https://www.tido-music.com/) - (March 2016 - September 2018)
+
+
+#### Javascript Contractor - (September 2016 - March 2017)
+
+- Develop full-stack JavaScript and Node.js apps for multiple startups
+- As tech lead on several projects, I have had the deciding voice on what tech stack to use based client requirements, and interesting technologies. 
+
+- **Technologies:**
+ * React
+ * Redux
+ * Redux Saga
+ * Lodash
+ * Webpack
+ * ES6
+ * [Nodejs](https://nodejs.org/en/)
+ * [Hapijs](http://hapijs.com/)
+ * AWS
+
+#### Freelance at [DWYL](http://www.dwyl.io/) - (September 2015 - September 2016)
 
 - Full stack Javascript developer
 - Stack:
@@ -198,7 +308,7 @@ Dabrowka is a one-page website, which uses vanilla CSS and jQuery for interactiv
  - Redux
 
 
-#### Mentor & Freelance at Founders & Coders - (May 2015 - Now)
+#### Mentor & Freelance at Founders & Coders - (May 2015 - September 2015)
 
 - 16-week highly selective coding bootcamp
 - Full-stack web development in JavaScript and Node.js
@@ -232,4 +342,4 @@ Node Girls runs free bootcamps in Node.js for women
 
 ## Contact
 
-anita@foundersandcoders.com | [GitHub](https://github.com/heron2014) | [LinkedIn](https://www.linkedin.com/in/anitaczapla)
+czaplaanita@gmail.com | [GitHub](https://github.com/heron2014) | [LinkedIn](https://www.linkedin.com/in/anitaczapla)
